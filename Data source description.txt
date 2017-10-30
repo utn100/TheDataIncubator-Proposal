@@ -1,0 +1,12 @@
+Resource 1: The New York Time article archives
+https://www.nytimes.com/
+The API key is acquired to download NYT articles (https://developer.nytimes.com/), dated back to 1990, 
+with searchquery of terms related to sexual harassment
+The data used for generated preliminary plot can be found here:
+https://github.com/utn100/TheDataIncubator-Proposal/blob/master/NYT.csv
+
+Resource 2: Twitter
+https://twitter.com/
+The API key is acquired to download tweets contained #metoo
+The data used for generated preliminary plot can be found here:
+https://github.com/utn100/TheDataIncubator-Proposal/blob/master/metoo_tweet.csv
