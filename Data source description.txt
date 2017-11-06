@@ -9,4 +9,4 @@ Resource 2: Twitter
 https://twitter.com/
 The API key is acquired to download tweets contained #metoo
 The data used for generated preliminary plot can be found here:
-https://github.com/utn100/TheDataIncubator-Proposal/blob/master/metoo_tweet.csv
+https://www.dropbox.com/s/ue20jkbeu4fph4h/metootweets.csv?dl=0
